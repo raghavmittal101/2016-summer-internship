@@ -1,0 +1,7 @@
+#+title: Daily work log for <Name>
+
+* Month of May
+** [2016-05-25 Wed]
+   + first day at VLEAD
+   + revising concepts and syntex of flask, emacs, SQLAlchemy, REST
+   + attended bootcamp learned about REST API
