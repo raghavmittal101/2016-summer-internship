@@ -1,0 +1,11 @@
+#+title: Daily work log
+#+AUTHOR: Raghav Mittal
+#+email: raghav.mittal@st.niituniversity.in
+
+* Month of May
+** [2016-05-25 Wed]
+   + First day at VLEAD internship 2016
+   + attended bootcamp, learned about REST APIs
+   + revised concepts and syntex of Flask, SQLAlchemy, Emacs commands.
+
+** Weekly  Summary
